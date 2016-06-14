@@ -1,0 +1,52 @@
+$fuente: 'Raleway', sans-serif;
+$colorTitulo1:#fff;
+$colorTitulo2:#0b2133;
+$colorTitulo3:#000;
+
+$colorNavSup:#a8abb0;
+
+$colorP1:#c2c5cc;
+$colorP2:#878787;
+$colorP3:#7a7c80;
+
+//package color//
+$colorPackageP:#666;
+$celeste:#67d6ff;
+$amarillo:#f9d423;
+$naranja:#ff9359;
+$rojo:#f75f40;
+
+$colorFooter:#c2c5cc;
+
+
+//cosas que use en mas de un selector //
+
+.hide{
+	display:none;
+}
+body{
+	font-family: $fuente;
+}
+.wrap{
+	width:960px;
+	height: auto;
+	margin: 0 auto;
+}
+.clearfix{
+	overflow:auto;
+}
+.flex{
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display:flex;
+    justify-content:center;
+	-ms-flex-align: center;
+    align-items:center;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    margin:0 auto;
+}
+
+.menuHeader{
+	float:left;
+}

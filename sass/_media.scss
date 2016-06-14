@@ -1,0 +1,137 @@
+
+@media screen and (max-width: 800px)/* Ipad */{
+	header  {
+		width: 100%;	
+
+	}
+	.wrap{
+		width:87%;
+		margin:0 auto;
+	}
+
+	.seccion1{
+		padding-left:5px;
+		padding-top: 175px;
+	}
+	.opciones{
+
+		width:50%;
+	}
+	.opciones2{
+		margin-top:-213px;
+	}
+	.listaIzquierda {
+    	width: 223px;
+	}
+	.imgCel {
+    	width: 174px;
+    	padding-top: 25px;
+    	margin-left: 24px;
+	}
+	.p2{
+		line-height: 1.1;
+	}
+	.seccion4{
+		padding: 130px 0;
+    	margin-top: 73px;
+
+	}
+	.seccion5 {
+    	margin-top: 40px;
+	}
+	.tabla {
+    	width: 264px;
+    	margin-top: 4px;
+	}
+}
+@media screen and (max-width: 450px) /*Nexus 6P*/ {
+		
+	.logo{
+		margin-left: 26%;
+	}
+	.menuHeader{
+		padding: 41px;
+	}
+	.seccion1{
+		display:none;
+	}
+	.buscador {
+    	width: 76.76%;
+    	box-shadow: 4px 3px 5px 3px rgba(0,0,0,0.15);
+	}
+	.search {
+    	width: 20.95%;
+    }
+    .imgCaract {
+    	float:left;
+    	margin-left: 0px;	
+	}
+	.p2{
+		text-align: left;
+	}
+	h4{
+		text-align:left;
+	}
+	.liCaract {
+    	margin: 50px 0 50px 82px;
+	}
+	.listaDerecha {
+    	float: none;
+    	width: 100%;
+	}
+	.listaIzquierda {
+    	width: 100%;
+    	float: none;
+	}
+	.mobile{
+		width: 100%;
+		float:none;
+		margin-left: 15%;
+		margin-top: -35px;
+	}
+	.imgCel {
+    	width: 210px;
+	}	
+	.tabla {
+    	width: 295px;
+	}
+	footer{
+	text-align: center;
+	padding: 87px 0;
+   	padding-top: 40px;
+
+
+	}
+	.ultimasection {
+    	padding: 80px 0;
+	}
+	.imgFooter{
+		display: none;
+	}
+	.copyright{
+		float: none;
+		text-align: center;
+	}
+	.home_contact2{
+		margin-left: -117%;
+		margin-top: -14%;
+	}
+
+}	
+
+@media screen and (max-width: 420px) /*Iphone 6 Plus*/ {
+	.opciones{
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	.opciones2{
+		margin-top: 0px;
+
+	}
+	.ultimasection{
+		padding:102px 0;
+	}
+
+
+}
+
